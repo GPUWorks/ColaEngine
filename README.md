@@ -26,3 +26,8 @@ OpenGL version: 4.0
 * SSAO
 * 泛光
 * 景深
+
+## 截图
+![](https://coding.net/u/Neyco/p/ColaEngine/git/raw/master/sample0.jpg)
+![](https://coding.net/u/Neyco/p/ColaEngine/git/raw/master/sample1.jpg)
+![](https://coding.net/u/Neyco/p/ColaEngine/git/raw/master/sample2.jpg)
