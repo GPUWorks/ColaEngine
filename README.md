@@ -3,10 +3,8 @@
 
 ## 开发环境
 IDE: Visual Studio 2017  
-Device: Nvidia GTX1070  
-OS: Windows 10  
 OpenGL version: 4.0  
-
+OS: Windows 10  
 
 ## 外部库
 [assimp](http://www.assimp.org/)  
@@ -27,7 +25,7 @@ OpenGL version: 4.0
 * 泛光
 * 景深
 
-## 截图
+## 程序截图
 ![](https://coding.net/u/Neyco/p/ColaEngine/git/raw/master/sample0.jpg)
 ![](https://coding.net/u/Neyco/p/ColaEngine/git/raw/master/sample1.jpg)
 ![](https://coding.net/u/Neyco/p/ColaEngine/git/raw/master/sample2.jpg)
