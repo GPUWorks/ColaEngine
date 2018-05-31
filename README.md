@@ -2,18 +2,18 @@
 这是一个基于OpenGL的光栅化渲染引擎.
 
 ## 开发环境
-IDE: Visual Studio 2017 
-Device: Nvidia GTX1070 
-OS: Windows 10 
-OpenGL version: 4.0 
+IDE: Visual Studio 2017  
+Device: Nvidia GTX1070  
+OS: Windows 10  
+OpenGL version: 4.0  
 
 
 ## 外部库
-[assimp](http://www.assimp.org/) 
-[glad](http://glad.dav1d.de/) 
-[glfw](http://www.glfw.org/) 
-[glm](https://glm.g-truc.net/) 
-[stb_image](https://github.com/nothings/stb) 
+[assimp](http://www.assimp.org/)  
+[glad](http://glad.dav1d.de/)  
+[glfw](http://www.glfw.org/)  
+[glm](https://glm.g-truc.net/)  
+[stb_image](https://github.com/nothings/stb)  
 
 ## 主要功能
 * 模型解析
